@@ -1,0 +1,15 @@
+.login-form {
+    background-image: url(../../images/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+
+.log-container {
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.click-here{
+    cursor: pointer;
+}

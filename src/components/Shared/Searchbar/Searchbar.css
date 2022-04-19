@@ -1,0 +1,25 @@
+.searchbar{
+    background-image: url(../../../images/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    height: 400px;
+}
+.search-btn{
+    cursor: pointer;
+}
+
+.food-type a{
+text-decoration: none;
+color: black;
+}
+
+.food-type a:hover{
+    color: rgb(255, 94, 0);
+}
+
+.card-deck{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
